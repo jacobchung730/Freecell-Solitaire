@@ -1,11 +1,15 @@
-# freecell-solitaire
-Freecell Solitaire
+# Freecell-solitaire
+Freecell Solitaire card based game
 
-Uses Model, View, Controller.
+Model, View, Controller
 
-Textual View in the Console.
+Single-Move and Multi-Move Models
 
-Single-Move and Multi-Move game modes.
+Number of cascade piles, open piles, etc are customizable  
 
-Number of cascade piles, open piles, etc. are customizable  
+Textual View in the Console
+
+
+
+
 
